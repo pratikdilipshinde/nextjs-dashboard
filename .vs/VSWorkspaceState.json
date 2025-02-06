@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\dashboard",
+    "\\app\\dashboard\\Customers",
+    "\\app\\dashboard\\Invoices",
+    "\\app\\ui",
+    "\\app\\ui\\dashboard",
+    "\\app\\ui\\invoices",
+    "\\public",
+    "\\public\\customers"
+  ],
+  "SelectedNode": "\\app",
+  "PreviewInSolutionExplorer": false
+}
